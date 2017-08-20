@@ -1,0 +1,22 @@
+1)	Trouvez un bon site exchange et y créer un wallet
+2)	Faire un contrat
+3)	Expérimentez importation d’argent dans le wallet
+		-Si directement sur compte cheque, créez un compte tangerine à deux
+		-si avec carte crédit – A VOIR
+4)	 Importer argent dans compte
+5) 	Expérimenté avec fond les large caps
+6)	Acces wallet(pt acces direct par poloniex) et fct de base du serveur à partir d’interface web et 	acces teamviewer
+7)	Trouver un ordi, choisir DB et installer DB.
+8) 	Utiliser l’API de l’exchange pour remplir la DB et un fichier excel
+9)	Faire transaction avec API
+10)	Discussion langage serveur + implémentation (Python ou Nodejs)
+11) 	Faire fetch donnée et transaction avec API et notre serveur
+12)	Discussion sur l’algorithme et test Gekko (ou autre bot)
+13)	Benchmark de l’algorithme
+14)	Si réusite
+		-Implémentation de l’algorithme avec fond
+	sinon
+
+		-Retour 10)
+15)	Discussion neural network
+16)	get bitches
