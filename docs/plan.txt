@@ -1,9 +1,6 @@
 1)	Trouvez un bon site exchange et y créer un wallet
-2)	Faire un contrat
 3)	Expérimentez importation d’argent dans le wallet
-		-Si directement sur compte cheque, créez un compte tangerine à deux
-		-si avec carte crédit – A VOIR
-4)	 Importer argent dans compte
+4)	Importer argent dans compte
 5) 	Expérimenté avec fond les large caps
 6)	Acces wallet(pt acces direct par poloniex) et fct de base du serveur à partir d’interface web et 	acces teamviewer
 7)	Trouver un ordi, choisir DB et installer DB.
