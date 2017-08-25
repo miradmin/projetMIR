@@ -1,10 +1,6 @@
-1)	Trouvez un bon site exchange et y créer un wallet
-3)	Expérimentez importation d’argent dans le wallet
-4)	Importer argent dans compte
-5) 	Expérimenté avec fond les large caps
-6)	Acces wallet(pt acces direct par poloniex) et fct de base du serveur à partir d’interface web et 	acces teamviewer
 7)	Trouver un ordi, choisir DB et installer DB.
 8) 	Utiliser l’API de l’exchange pour remplir la DB et un fichier excel
+6)	Acces wallet(pt acces direct par poloniex) et fct de base du serveur à partir d’interface web et 	acces teamviewer
 9)	Faire transaction avec API
 10)	Discussion langage serveur + implémentation (Python ou Nodejs)
 11) 	Faire fetch donnée et transaction avec API et notre serveur
