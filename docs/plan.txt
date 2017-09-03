@@ -1,15 +1,14 @@
-7)	Trouver un ordi, choisir DB et installer DB.
-8) 	Utiliser l’API de l’exchange pour remplir la DB et un fichier excel
-6)	Acces wallet(pt acces direct par poloniex) et fct de base du serveur à partir d’interface web et 	acces teamviewer
-9)	Faire transaction avec API
-10)	Discussion langage serveur + implémentation (Python ou Nodejs)
-11) 	Faire fetch donnée et transaction avec API et notre serveur
-12)	Discussion sur l’algorithme et test Gekko (ou autre bot)
-13)	Benchmark de l’algorithme
-14)	Si réusite
+1) 	Utiliser l’API de l’exchange pour remplir la DB et un fichier excel
+2)	Acces wallet(pt acces direct par bittrex) par API
+3) 	Faire transaction avec API et notre serveur
+4)	Discussion langage serveur + implémentation (Python ou Nodejs)
+5)	creation et remplissage d'une base de connaissance sur github
+7)	Discussion sur l’algorithme et test Gekko (ou autre bot)
+8)	Benchmark de l’algorithme
+	Si réusite
 		-Implémentation de l’algorithme avec fond
 	sinon
 
-		-Retour 10)
-15)	Discussion neural network
-16)	get bitches
+		-Retour 5)
+9)	Discussion neural network
+10)	get bitches
