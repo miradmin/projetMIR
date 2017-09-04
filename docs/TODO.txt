@@ -1,3 +1,3 @@
 -setup firewall on mirserver1
 -fix vnc debian service
--fix debian dev $PATH
+-fix port redirection dynu to access ssh, vnc, phpmyadmin and webserver with domain
