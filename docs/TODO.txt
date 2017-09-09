@@ -1,3 +1,2 @@
--setup firewall on mirserver1
--fix vnc debian service
--fix port redirection dynu to access ssh, vnc, phpmyadmin and webserver with domain
+-setup multiple client vpn
+-add ssh keys??
